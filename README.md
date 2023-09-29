@@ -1,0 +1,1 @@
+This is a clone of LinkedIn Homepage using HTML and CSS.
